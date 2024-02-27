@@ -1,0 +1,15 @@
+.feature{
+    background-color:#ddd;
+    padding: 15px 0;
+}
+.child{
+    height: 100%;
+    padding: 15px;
+    border-radius: 15px;
+}
+/* .col{
+    margin-bottom: 20px;
+} */
+/* .col-lg-4{
+    margin-bottom: 30px;
+} */
